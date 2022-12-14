@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ignore all
 *
 
@@ -20,3 +21,37 @@ bin/
 
 # Unignore all `.exe` in `bin` dir
 !*/bin/*.exe
+=======
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+>>>>>>> ce352936ccf7457a4194a2d5460e47419e5088aa
